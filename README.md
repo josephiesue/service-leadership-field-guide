@@ -2,9 +2,9 @@
 
 **Growth designed around contribution.**
 
-Service Leadership is the central doctrine behind Joseph E. Iesue's leadership and organizational work.
+Service Leadership is the central leadership doctrine behind Joseph E. Iesue's work.
 
-It argues that people, teams, and institutions develop best when growth is connected to contribution.
+It begins with the belief that people, teams, and institutions grow stronger when development is connected to meaningful contribution.
 
 ## Core Equation
 
@@ -12,53 +12,23 @@ It argues that people, teams, and institutions develop best when growth is conne
 Servant Leadership + String Leadership Theory = Service Leadership
 ```
 
-Servant Leadership provides the ethic.
+Servant Leadership gives the ethic: leadership should serve the growth and well-being of others.
 
-String Leadership Theory provides the developmental map.
+String Leadership Theory gives the developmental map: leadership matures across connected dimensions, from self-awareness to legacy.
 
-Service Leadership turns both into a practical system for building people, teams, and institutions around contribution.
+Service Leadership brings both together into a practical operating doctrine for growth through service.
+
+## Doctrine In One Paragraph
+
+Service Leadership is the deliberate practice of designing growth around contribution. It is not servitude, charisma, personality branding, or motivational language. It is a systems approach to leadership where people become stronger by serving something beyond status, ego, or short-term performance.
 
 ## What This Repository Contains
 
-- A clear introduction to the doctrine
-- Practical principles for applying Service Leadership
-- A glossary of key concepts
-- Starter worksheets for reflection, coaching, and team use
-- Suggested applications for individuals, teams, educators, and founders
-
-## The Doctrine In One Paragraph
-
-Service Leadership is the deliberate practice of designing growth around contribution. It is not servitude, charisma, or motivational language. It is a systems approach to leadership where people become stronger by serving something beyond status, ego, or short-term performance.
-
-## Five Principles
-
-### 1. Service Before Status
-
-Leadership begins with contribution, not performance theater.
-
-### 2. Growth Through Responsibility
-
-People mature when they take meaningful responsibility for outcomes that matter.
-
-### 3. Systems Beat Motivation
-
-Growth is easier when environments, incentives, routines, and stories reinforce the same direction.
-
-### 4. Clarity Creates Agency
-
-People cannot serve well if they cannot see what matters, what is expected, and what the next move is.
-
-### 5. Legacy Is Multiplication
-
-The highest form of leadership is developing others who can lead without you.
-
-## Who This Is For
-
-- Founders building early teams
-- Managers developing people
-- Educators designing learning environments
-- Students and professionals building career agency
-- Nonprofits and institutions aligning mission with practice
+- The core Service Leadership doctrine
+- The principles that shape the model
+- A glossary of key terms
+- A reflection worksheet for personal and coaching use
+- A team conversation guide for applying the doctrine in groups
 
 ## Start Here
 
@@ -66,16 +36,17 @@ The highest form of leadership is developing others who can lead without you.
 2. Review [The Principles](docs/principles.md).
 3. Use the [Reflection Worksheet](docs/reflection-worksheet.md).
 4. Apply the [Team Conversation Guide](docs/team-conversation-guide.md).
+5. Reference the [Glossary](docs/glossary.md).
 
-## Related Projects
+## Related Work
 
+- Joseph E. Iesue: https://josephiesue.com
 - EntrLabs: https://entr.cc/entrlabs
 - EntrLabs Frameworks: https://github.com/entrlabs/frameworks
 - EntrWork: https://entr.cc/entrwork
-- Joseph E. Iesue: https://josephiesue.com
 
-## License
+## Use
 
-This project is shared for learning, research, and non-commercial use.
+This repository is shared for learning, research, and non-commercial use.
 
-For commercial workshops, consulting, or institutional use, contact Joseph E. Iesue through the official sites above.
+For workshops, consulting, institutional use, or commercial applications, contact Joseph E. Iesue through the official sites above.
