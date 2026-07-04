@@ -1,6 +1,8 @@
 # Reflection Worksheet
 
-Use this worksheet for personal reflection, coaching, team development, or career clarity.
+This worksheet is a practical entry point into Service Leadership.
+
+Use it for personal reflection, coaching, team development, career clarity, or leadership review.
 
 ## 1. Contribution
 
@@ -16,15 +18,21 @@ Who or what does that contribution serve?
 
 ```
 
-## 2. Growth
-
-What capability do I need to strengthen in order to serve better?
+What would make the contribution stronger?
 
 ```text
 
 ```
 
-What evidence would show that I am growing?
+## 2. Growth
+
+What capability must grow in me for this contribution to become possible?
+
+```text
+
+```
+
+What evidence would show that growth is real?
 
 ```text
 
@@ -32,13 +40,13 @@ What evidence would show that I am growing?
 
 ## 3. Responsibility
 
-What responsibility am I avoiding or under-defining?
+What responsibility needs to become clearer?
 
 ```text
 
 ```
 
-What responsibility should be clarified, accepted, delegated, or released?
+What responsibility am I avoiding, overholding, under-defining, or ready to accept?
 
 ```text
 
@@ -46,7 +54,7 @@ What responsibility should be clarified, accepted, delegated, or released?
 
 ## 4. System
 
-What routine would make contribution easier?
+What routine, structure, or signal would make contribution easier to repeat?
 
 ```text
 
@@ -58,7 +66,7 @@ What friction is making service harder than it needs to be?
 
 ```
 
-## 5. Next Move
+## 5. Next Visible Action
 
 What is the next visible action?
 
