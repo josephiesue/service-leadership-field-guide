@@ -1,20 +1,23 @@
 # Team Conversation Guide
 
-Use this guide to start a Service Leadership conversation with a team.
+This guide helps a team apply Service Leadership in conversation.
+
+The goal is not to create slogans. The goal is to name the contribution, clarify responsibility, and identify the systems that make the right behavior easier to repeat.
 
 ## Opening Question
 
 What contribution does this team exist to make?
 
-## Discussion Prompts
+## Conversation Prompts
 
-1. What do we currently reward, celebrate, or notice?
-2. What important contributions are currently invisible?
-3. Where are people unclear about responsibility?
-4. What routines help us grow?
-5. What routines drain attention without improving contribution?
-6. Where do we need more service and less status?
-7. What is one behavior we want to reinforce this month?
+1. What do we currently notice, reward, or celebrate?
+2. What important contribution is currently invisible?
+3. Where is responsibility unclear?
+4. What behavior do we say we value but fail to reinforce?
+5. What routine helps us grow?
+6. What routine consumes attention without improving contribution?
+7. Where do we need more service and less status?
+8. What is one behavior we want to make easier to repeat this month?
 
 ## Team Commitments
 
@@ -36,10 +39,12 @@ Our next visible action:
 
 ## Follow-Up Rhythm
 
-Repeat every two weeks:
+Return to the commitments every two weeks.
+
+Ask:
 
 - What contribution became more visible?
 - What responsibility became clearer?
 - What system helped?
 - What system got in the way?
-- What is the next adjustment?
+- What needs to change next?
